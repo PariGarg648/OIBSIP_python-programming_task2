@@ -1,4 +1,4 @@
-# Password geanerator
+# Password generator 
 
 ## Objective:
 To create a Python program that generates strong random passwords containing letters, numbers, and special characters.
